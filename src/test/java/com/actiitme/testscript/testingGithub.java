@@ -1,5 +1,10 @@
 package com.actiitme.testscript;
 
-public class testingGithub {
+import org.testng.annotations.Test;
 
+public class testingGithub {
+	@Test
+	public void sa() {
+		
+	}
 }
