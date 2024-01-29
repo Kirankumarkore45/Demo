@@ -7,6 +7,7 @@ public class CustomerModule {
 	@Test
 	public void createCustomer() {
 		Reporter.log("Create customer");
+		System.out.println("hi");
 	}
 
 }
